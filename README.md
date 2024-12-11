@@ -6,7 +6,6 @@ Kiva is a nonprofit organization that connects people through lending to allevia
 
 ## Contents
 - `notebooks/`: Contains the Jupyter Notebook file with the full analysis.
-- `data/`: Contains the dataset
 - `images/`: Contains visualizations generated during the analysis.
 
 ## Key Steps in the Analysis
